@@ -10,7 +10,8 @@ This project is a Python-based solution designed to streamline the process of up
 ![out](https://github.com/user-attachments/assets/2629b0fe-201c-4126-a09b-e87739641bc9)
 
 ## Screenshots
-![credit_agricole_github_banner](https://github.com/user-attachments/assets/de181e5d-924a-407f-8112-9ae2a86655f0)
+![credit_agricole_github_banner_2](https://github.com/user-attachments/assets/295a682a-e4fa-45ff-915c-80affcf5f395)
+
 
   
 ## Technologies Used
