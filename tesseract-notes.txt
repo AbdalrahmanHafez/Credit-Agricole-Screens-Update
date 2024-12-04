@@ -1,0 +1,8 @@
+set TESSDATA_PREFIX=C:/Users/dahom/AppData/Local/Programs/Tesseract-OCR/tessdata
+tesseract ICON000.jpg res --oem 3 --psm 12 -l eng+ara lstmbox
+tesseract ICON000.jpg res --oem 3 --psm 3 -l eng+ara lstmbox
+tesseract ICON257.jpg out -l ara --tessdata-dir ./tessdata --psm 12 tessconfig
+
+--tessdata-dir ./tessdata
+
+
